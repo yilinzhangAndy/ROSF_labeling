@@ -22,6 +22,13 @@
 
 <br/>
 
-#Environment Configuration
+## Environment Configuration
+
 1. Download ([Visual Studio Code](https://code.visualstudio.com/)) Or Log in ([UF App](https://login.apps.ufl.edu/logon/LogonPoint/tmindex.html))
 2. Install Package
+
+
+  Install the labelme package. Now, you can install labelme by running the following command:
+```bash
+pip install Pandas
+```
