@@ -28,7 +28,7 @@
 2. Install Package
 
 
-  Install the labelme package. Now, you can install labelme by running the following command:
+  Install the labelme package. Now, you can install pandas by running the following command:
 ```bash
 pip install Pandas
 ```
