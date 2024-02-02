@@ -16,7 +16,7 @@
 ## Environment Configuration
 
 1. Download [Visual Studio Code](https://code.visualstudio.com/) Or Log in [UF App](https://login.apps.ufl.edu/logon/LogonPoint/tmindex.html)
-2. Install [Anaconda](https://www.continuum.io/downloads) : Python interpreter is located in the Anaconda3 environment. Anaconda is a Python distribution that can create virtual environments and contains many libraries for scientific computing and data analysis.）
+2. Install [Anaconda](https://www.anaconda.com/download) : Python interpreter is located in the Anaconda3 environment. Anaconda is a Python distribution that can create virtual environments and contains many libraries for scientific computing and data analysis.）
 3. Excel file exists : Make sure the 'final_all_tasks.xlsx' file is in the same directory as your Python script, or that you have provided the correct file path. If the file is not in the same directory, provide an absolute or relative path to the file to ensure the script can find it.
 
 ## In Visual Studio Code
