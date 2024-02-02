@@ -32,3 +32,7 @@ conda activate base
 ```bash
 conda install pandas
 ```
+
+Excel file exists: Make sure the 'final_all_tasks.xlsx' file is in the same directory as your Python script, or that you have provided the correct file path. If the file is not in the same directory, provide an absolute or relative path to the file to ensure the script can find it.
+
+Make sure to replace the "final_all_tasks.xlsx" path with the path where the file is stored on your computer
