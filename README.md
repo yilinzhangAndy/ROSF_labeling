@@ -45,7 +45,13 @@ python (The path where the "labeling.py" file is stored locally on your computer
 ```
 - Start Labeling
    
-Select the start and end tasks, and select the appropriate description from the `17` categories to start labeling.
+Select the start and end tasks, and select the appropriate description from the `15` categories to start labeling.
+
+If you think this task not a job task you can input `na` and If you think this task belong to other categories you can input `other`
+
+- Save File
+
+Could you please save your Excel file name to `labeled_tasks_[your initials].xlsx`
 
 <div align="center">
   <img src="Image_for_demonstration/2.png" width="70%">
